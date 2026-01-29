@@ -1,0 +1,11 @@
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\bin\Debug\net8.0\WinFormsGameEngineAPI.deps.json
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\bin\Debug\net8.0\WinFormsGameEngineAPI.dll
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\bin\Debug\net8.0\WinFormsGameEngineAPI.pdb
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\obj\Debug\net8.0\WinFormsGameEngineAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\obj\Debug\net8.0\WinFormsGameEngineAPI.AssemblyInfoInputs.cache
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\obj\Debug\net8.0\WinFormsGameEngineAPI.AssemblyInfo.cs
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\obj\Debug\net8.0\WinFormsGameEngineAPI.csproj.CoreCompileInputs.cache
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\obj\Debug\net8.0\WinFormsGameEngineAPI.dll
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\obj\Debug\net8.0\refint\WinFormsGameEngineAPI.dll
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\obj\Debug\net8.0\WinFormsGameEngineAPI.pdb
+C:\Users\louis\Documents\Programs\CSharp\WinForms Games\WinFormsGameEngineAPI\obj\Debug\net8.0\ref\WinFormsGameEngineAPI.dll

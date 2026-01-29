@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PainEngine/1.0.0": {
+        "dependencies": {
+          "PainEngineAPI": "1.0.0"
+        },
+        "runtime": {
+          "PainEngine.dll": {}
+        }
+      },
+      "PainEngineAPI/1.0.0": {
+        "runtime": {
+          "PainEngineAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PainEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PainEngineAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

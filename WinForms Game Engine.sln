@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsGameEngine", "WinFormsGameEngine\WinFormsGameEngine.csproj", "{F64CC03D-DF37-4EDC-99F4-7A8CD55DC571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsGameEngineAPI", "WinFormsGameEngineAPI\WinFormsGameEngineAPI.csproj", "{6DAF74EA-4830-4E4B-8A4D-82AF0FFCAEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64CC03D-DF37-4EDC-99F4-7A8CD55DC571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64CC03D-DF37-4EDC-99F4-7A8CD55DC571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64CC03D-DF37-4EDC-99F4-7A8CD55DC571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64CC03D-DF37-4EDC-99F4-7A8CD55DC571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAF74EA-4830-4E4B-8A4D-82AF0FFCAEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAF74EA-4830-4E4B-8A4D-82AF0FFCAEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAF74EA-4830-4E4B-8A4D-82AF0FFCAEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAF74EA-4830-4E4B-8A4D-82AF0FFCAEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {384C867C-12C9-4C4A-BB68-06B1AD64D2BB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\bin\Debug\net8.0\PainEngineAPI.deps.json
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\bin\Debug\net8.0\PainEngineAPI.dll
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\bin\Debug\net8.0\PainEngineAPI.pdb
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\obj\Debug\net8.0\PainEngineAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\obj\Debug\net8.0\PainEngineAPI.AssemblyInfoInputs.cache
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\obj\Debug\net8.0\PainEngineAPI.AssemblyInfo.cs
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\obj\Debug\net8.0\PainEngineAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\obj\Debug\net8.0\PainEngineAPI.dll
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\obj\Debug\net8.0\refint\PainEngineAPI.dll
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\obj\Debug\net8.0\PainEngineAPI.pdb
+C:\Users\Lewis\source\repos\PainEngine\PainEngineAPI\obj\Debug\net8.0\ref\PainEngineAPI.dll

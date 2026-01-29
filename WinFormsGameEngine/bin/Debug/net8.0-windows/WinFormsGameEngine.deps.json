@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsGameEngine/1.0.0": {
+        "dependencies": {
+          "WinFormsGameEngineAPI": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsGameEngine.dll": {}
+        }
+      },
+      "WinFormsGameEngineAPI/1.0.0": {
+        "runtime": {
+          "WinFormsGameEngineAPI.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsGameEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinFormsGameEngineAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
